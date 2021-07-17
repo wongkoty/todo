@@ -8,6 +8,8 @@ npm i
 npm run dev
 ```
 
+You can then visit [http://localhost:3000](http://localhost:3000)
+
 ### Desktop
 ![](desktop.JPG)
 
